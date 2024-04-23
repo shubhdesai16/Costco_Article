@@ -4,4 +4,4 @@ Costco Wholesale shifts to cloud infrastructure for flexibility, scalability, co
 
 Overcoming legacy system challenges, leveraging Azure, and deploying agile strategies propel innovation.
 
-[Costco Article]([url](https://github.com/shubhdesai16/Costco_Article/blob/main/Costco_Article.pdf))
+[Costco Article](https://github.com/shubhdesai16/Costco_Article/blob/main/Costco_Article.pdf)

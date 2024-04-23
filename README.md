@@ -34,7 +34,7 @@ Costco’s move towards cloud computing is driven by the need to optimize its op
 
 Costco’s cloud vision encompasses a comprehensive framework aimed at harnessing the power of cloud computing to unlock new levels of efficiency and innovation. By migrating key data sources such as store operations, user activity logs, and application performance metrics to cloud servers, Costco aims to help real-time inventory management, web analytics, and robust audit and reporting capabilities.
 
-` `**![](Aspose.Words.8cecab1d-2e6a-423b-8e1d-21aa48b4ac3e.001.png)**
+` `**![](Visison Diagram.png)**
 
 
 
@@ -75,7 +75,7 @@ Costco’s cloud vision encompasses a comprehensive framework aimed at harnessin
 
 In the cloud architecture adopted by Costco, the data sources include e-commerce, customer databases, website tracking, and geolocation information. The pipeline ingestion is facilitated through a data lake, while the data is stored and processed in a data Lakehouse, comprising bronze, silver, and gold layers. Additionally, Costco utilizes Power BI and Azure ML for creating insightful dashboards and analytics.
 
-` `![](Aspose.Words.8cecab1d-2e6a-423b-8e1d-21aa48b4ac3e.002.png)
+` `![](Cloud Architecture.png)
 
 
 
@@ -98,7 +98,7 @@ Costco’s data lake-house architecture comprises three layers - bronze, silver,
 
 **Data Analysis**: The company has implemented a comprehensive data analysis pipeline to derive valuable insights and actionable intelligence from the stored data, enabling informed decision-making and strategic planning.
 
-![](Aspose.Words.8cecab1d-2e6a-423b-8e1d-21aa48b4ac3e.003.png)
+![](Pipeline Diagram.png)
 **
 
 
